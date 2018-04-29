@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('Poppins/normal/font.eot');
+  src: url('Poppins/normal/font.woff2') format('woff2'),
+       url('Poppins/normal/font.woff') format('woff'),
+       url('Poppins/normal/font.ttf') format('truetype'),
+       url('Poppins/normal/font.svg') format('svg'),
+       url('Poppins/normal/font.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'Poppins Light';
+    src: url('Poppins/light/font.eot');
+    src: url('Poppins/light/font.eot?#iefix') format('embedded-opentype'),
+        url('Poppins/light/font.woff2') format('woff2'),
+        url('Poppins/light/font.woff') format('woff'),
+        url('Poppins/light/font.ttf') format('truetype'),
+        url('Poppins/light/font.svg') format('svg');
+    font-weight: 300;
+    font-style: light;
+}
